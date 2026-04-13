@@ -1,7 +1,7 @@
 Privacy Policy / 隐私政策（USFoodGuard）
 Effective date / 生效日期： 2026-04-13
 App name / 应用名称： USFoodGuard
-Contact / 联系方式： support@yourdomain.com（先用你的邮箱替换）
+Contact / 联系方式： jianchen8863988@gmail.com
 
 1. Overview / 概述
 USFoodGuard is a personal tracking tool that helps you log meals and symptoms and view simple summaries.
