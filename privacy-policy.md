@@ -37,6 +37,7 @@ Show Insights/Weekly summaries based on simple co-occurrence statistics
 你的数据仅用于：
 展示今日摘要
 展示洞察/周报等简单统计结果（共现统计，不代表因果）
+
 6. Data Storage / 数据存储
 All logs are stored locally in a SQLite database on your device.
 所有记录存储在你设备本地的 SQLite 数据库中。
